@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>chees_images/bishop_black.png</file>
+        <file>chees_images/bishop_white.png</file>
+        <file>chees_images/king_black.png</file>
+        <file>chees_images/king_white.png</file>
+        <file>chees_images/knight_black.png</file>
+        <file>chees_images/knight_white.png</file>
+        <file>chees_images/pawn_black.png</file>
+        <file>chees_images/pawn_white.png</file>
+        <file>chees_images/queen_black.png</file>
+        <file>chees_images/queen_white.png</file>
+        <file>chees_images/rook_black.png</file>
+        <file>chees_images/rook_white.png</file>
+        <file>chees_images/Chess-texture-abstract-background-Graphics-80901635-1.png</file>
+        <file>chees_images/queen-and-pawn-free-photo.jpg</file>
+        <file>chees_images/R (1).jpeg</file>
+        <file>chees_images/R.jpeg</file>
+        <file>chees_images/icons8-back-arrow-48.png</file>
+        <file>chees_images/submit.png</file>
+    </qresource>
+</RCC>
